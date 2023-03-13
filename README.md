@@ -1,2 +1,2 @@
-![example workflow](git@github.com:Disv-23/hexlet-my-first-workflow.git)
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 # hexlet-my-first-workflow
